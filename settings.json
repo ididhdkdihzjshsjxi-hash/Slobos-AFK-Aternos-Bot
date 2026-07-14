@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "debojitsharma.aternos.me"
+    "port": 12441,
+    "version": "1.26.30",
     "try-creative": false
   },
   "position": {
